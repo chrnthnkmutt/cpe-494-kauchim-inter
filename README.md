@@ -1,20 +1,52 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Kau Chim Simulator
 
-# Run and deploy your AI Studio app
+A beautiful, interactive Chinese fortune stick (Kau Chim) simulator built with React, TypeScript, Tailwind CSS, and Framer Motion.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/4e397eef-8e73-4dc5-ae8f-29e69afeacdb
+- **Interactive Shaking Animation:** Physics-based animations using Framer Motion to simulate shaking the fortune cylinder.
+- **Traditional Theme:** Culturally respectful UI with temple-inspired colors (deep reds, golds) and a festive background.
+- **Randomized Fortunes:** Draws a random stick from 1 to 100.
+- **Data-Driven:** Fortunes are loaded from a clean, easily extensible JSON file (`src/data/fortunes.json`).
+- **Responsive Design:** Works beautifully on both desktop and mobile devices.
 
-## Run Locally
+## Tech Stack
 
-**Prerequisites:**  Node.js
+- [React 19](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS 4](https://tailwindcss.com/)
+- [Motion (Framer Motion)](https://motion.dev/)
 
+## Getting Started
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+2. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
+
+3. **Build for production:**
+   ```bash
+   npm run build
+   ```
+
+## Customizing Fortunes
+
+To add or modify fortunes, simply edit the `src/data/fortunes.json` file. Each fortune follows this structure:
+
+```json
+{
+  "1": {
+    "number": 1,
+    "title": "Fortune Title",
+    "type": "Great Blessing | Good Fortune | Average | Bad Fortune | Great Misfortune",
+    "verse": "Poetic verse here...",
+    "interpretation": "Modern interpretation here..."
+  }
+}
+```
