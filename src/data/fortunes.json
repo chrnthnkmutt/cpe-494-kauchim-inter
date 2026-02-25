@@ -1,0 +1,37 @@
+{
+  "1": {
+    "number": 1,
+    "title": "The Dragon Soars",
+    "type": "Great Blessing",
+    "verse": "The dragon soars into the boundless sky,\nClouds part to reveal the sun on high.\nAll endeavors meet with swift success,\nA life of joy and boundless happiness.",
+    "interpretation": "An incredibly auspicious draw. Whatever you are planning to do, proceed with confidence. Success, wealth, and happiness are highly favored."
+  },
+  "25": {
+    "number": 25,
+    "title": "Blooming Spring",
+    "type": "Good Fortune",
+    "verse": "Winter's chill begins to fade away,\nSpring blossoms open to the light of day.\nPatience brings the reward you seek,\nA gentle breeze upon the mountain peak.",
+    "interpretation": "Good things are coming, but they require patience. Like a flower blooming in spring, your efforts will naturally bear fruit in due time."
+  },
+  "50": {
+    "number": 50,
+    "title": "The Calm Lake",
+    "type": "Average",
+    "verse": "The water's surface is a mirror clear,\nNo wind to stir, no storm to fear.\nMaintain the course and keep your peace,\nLet restless thoughts and worries cease.",
+    "interpretation": "A neutral fortune. It is a time for stability rather than bold moves. Maintain your current path and avoid unnecessary risks."
+  },
+  "75": {
+    "number": 75,
+    "title": "Clouds Obscure the Moon",
+    "type": "Bad Fortune",
+    "verse": "Thick clouds gather in the evening sky,\nHiding the bright moon from the watchful eye.\nSteps must be taken with utmost care,\nLest you stumble in the darkened air.",
+    "interpretation": "A warning to be cautious. You may face obstacles or confusion in the near future. Delay major decisions and proceed carefully."
+  },
+  "100": {
+    "number": 100,
+    "title": "The Broken Branch",
+    "type": "Great Misfortune",
+    "verse": "A sudden storm snaps the ancient tree,\nLeaves scatter wildly across the sea.\nPlans unravel and hopes are dashed,\nWait for the storm to finally pass.",
+    "interpretation": "A very challenging time lies ahead. It is best to lay low, avoid new ventures, and focus on protecting what you have until conditions improve."
+  }
+}

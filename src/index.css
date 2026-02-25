@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Serif+TC:wght@400;700;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-temple-red: #8B0000;
+  --color-temple-dark: #2A0000;
+  --color-temple-gold: #D4AF37;
+  --color-temple-light: #FFF8DC;
+  --color-bamboo: #E3C28B;
+  --color-bamboo-dark: #8B5A2B;
+  --font-serif: "Noto Serif TC", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+body {
+  background-color: var(--color-temple-dark);
+  background-image: linear-gradient(rgba(42, 0, 0, 0.7), rgba(42, 0, 0, 0.8)), url('https://img.freepik.com/free-vector/chinese-new-year-celebration-festive-background_53876-96455.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: var(--color-temple-light);
+  min-height: 100vh;
+  margin: 0;
+  overflow-x: hidden;
+}
