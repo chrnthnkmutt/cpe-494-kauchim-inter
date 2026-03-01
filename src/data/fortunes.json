@@ -6,12 +6,341 @@
     "verse": "The dragon soars into the boundless sky,\nClouds part to reveal the sun on high.\nAll endeavors meet with swift success,\nA life of joy and boundless happiness.",
     "interpretation": "An incredibly auspicious draw. Whatever you are planning to do, proceed with confidence. Success, wealth, and happiness are highly favored."
   },
+  "2": {
+    "number": 2,
+    "title": "The Whale Rides the Waves",
+    "type": "Great Blessing",
+    "verse": "The mighty whale swims free across the sea,\nA dragon rising, glorious and free.\nYour vast ambitions soon will take their flight,\nSuccess and honor shine incredibly bright.",
+    "interpretation": "An incredibly auspicious reading. It indicates a sudden rise in status or the successful launch of a major endeavor. Your talents will finally be recognized, bringing great rewards."
+  },
+  "3": {
+    "number": 3,
+    "title": "The Swallow Builds a Nest",
+    "type": "Average",
+    "verse": "The swallow gathers mud in early spring,\nTo build a nest where little birds may sing.\nThough labor is required day by day,\nA peaceful home will make the effort pay.",
+    "interpretation": "A neutral but hopeful fortune. Success will not come overnight or through luck, but through steady, diligent effort. Build your foundations carefully."
+  },
+  "4": {
+    "number": 4,
+    "title": "The Broken Mirror Rejoined",
+    "type": "Good Fortune",
+    "verse": "A mirror shattered finds its missing half,\nReplacing sorrow with a joyful laugh.\nWhat once was lost is brought back to your door,\nAnd broken bonds are mended as before.",
+    "interpretation": "A positive sign, especially for relationships or lost opportunities. Reconciliation and recovery are favored. Something you thought was gone forever will return to you."
+  },
+  "5": {
+    "number": 5,
+    "title": "Digging for a Spring",
+    "type": "Average",
+    "verse": "You dig the earth to find a hidden spring,\nBut dirt and gravel are the only thing.\nKeep striking deep beneath the heavy stone,\nUntil the crystal waters are your own.",
+    "interpretation": "A reading signifying a period of hard work with delayed results. You may feel frustrated by a lack of immediate progress, but persistence is key. Do not give up halfway."
+  },
+  "6": {
+    "number": 6,
+    "title": "The Stranded Boat",
+    "type": "Bad Fortune",
+    "verse": "A heavy boat is stranded on the sand,\nWith neither wind nor tide to leave the land.\nTo push it forward is a useless chore,\nJust wait until the water fills the shore.",
+    "interpretation": "A difficult situation where progress is currently impossible. Do not force things right now, as it will only exhaust you. Wait patiently for the circumstances to change naturally."
+  },
+  "7": {
+    "number": 7,
+    "title": "The Scholar Passes the Exam",
+    "type": "Good Fortune",
+    "verse": "Ten years of study by the lantern's light,\nRewards the scholar with a future bright.\nYour name is written on the golden board,\nA joyous harvest and a just reward.",
+    "interpretation": "A very positive sign for career, studies, or official matters. Your past efforts are about to pay off with recognition and success."
+  },
+  "8": {
+    "number": 8,
+    "title": "The Bamboo in the Wind",
+    "type": "Average",
+    "verse": "The slender bamboo bends but does not break,\nThrough howling winds and storms that make the earth shake.\nYield to the pressure, do not stand too tall,\nAnd you will rise again without a fall.",
+    "interpretation": "A time to be flexible and adaptable. You may face opposition or strong forces. Do not resist them directly; instead, bend like the bamboo and you will survive unharmed."
+  },
+  "9": {
+    "number": 9,
+    "title": "The Phoenix Returns to the Nest",
+    "type": "Great Blessing",
+    "verse": "A brilliant phoenix leaves the starry night,\nReturning home bathed in a golden light.\nProsperity and harmony align,\nA perfect union by a grand design.",
+    "interpretation": "An exceptional fortune indicating ultimate harmony, joyous reunions, or a highly successful marriage or partnership. Wealth and happiness will fill your home."
+  },
+  "10": {
+    "number": 10,
+    "title": "The Lost Sheep",
+    "type": "Bad Fortune",
+    "verse": "The shepherd sleeps, the little sheep strays far,\nLost in the mountains under no guiding star.\nThe wolves are howling in the darkening wood,\nA risky journey with no likelihood of good.",
+    "interpretation": "A warning against carelessness or wandering off your proven path. You are vulnerable right now. Stick to what is safe and avoid trusting strangers or taking gambles."
+  },
+  "11": {
+    "number": 11,
+    "title": "The Fire in the Dry Grass",
+    "type": "Great Misfortune",
+    "verse": "A single spark upon the parched estate,\nConsumes the fields before it is too late.\nThe roaring flames devour the autumn yield,\nLeaving but ashes on the barren field.",
+    "interpretation": "A severe warning of sudden loss, disaster, or overwhelming conflict. Take extreme precautions in your business and personal life. Avoid arguments and risky investments entirely."
+  },
+  "12": {
+    "number": 12,
+    "title": "Waiting for the Ferry",
+    "type": "Average",
+    "verse": "You stand upon the river's misty shore,\nThe ferryman is on the other door.\nYou cannot swim across the rushing tide,\nJust sit and wait upon the water's side.",
+    "interpretation": "Progress is currently halted by circumstances outside your control. You must wait for the right time or the right person to help you move forward. Patience is essential."
+  },
+  "13": {
+    "number": 13,
+    "title": "The Merchant's Full Ship",
+    "type": "Good Fortune",
+    "verse": "The trading ship returns from overseas,\nCarried along by a favorable breeze.\nThe holds are bursting with a precious store,\nWealth and abundance lay upon the shore.",
+    "interpretation": "A highly favorable fortune for business, trade, and financial matters. Your investments will yield excellent returns, and smooth sailing is ahead."
+  },
+  "14": {
+    "number": 14,
+    "title": "The Emperor's Edict",
+    "type": "Great Blessing",
+    "verse": "A messenger arrives by royal command,\nBringing great honors to your waiting hand.\nThe highest gates are thrown wide open now,\nFame and fortune gather at your brow.",
+    "interpretation": "One of the most auspicious lots. You will receive great news, promotion, or support from highly influential people. Everything you attempt will be met with overwhelming success."
+  },
+  "15": {
+    "number": 15,
+    "title": "The Moth and the Flame",
+    "type": "Bad Fortune",
+    "verse": "The foolish moth is drawn unto the light,\nIgnoring danger in the starry night.\nThe burning candle is a fatal trap,\nBringing destruction in a sudden snap.",
+    "interpretation": "A dire warning against temptation or blind ambition. What looks attractive and promising right now may lead to your downfall. Step back and re-evaluate your desires."
+  },
+  "16": {
+    "number": 16,
+    "title": "Planting the Jade Tree",
+    "type": "Good Fortune",
+    "verse": "You plant a seed of jade within the earth,\nAnd watch it grow into a thing of worth.\nIts branches shelter you from sun and rain,\nA lasting legacy of honest gain.",
+    "interpretation": "A sign of long-term success and stable growth. It is a good time to start a family, build a business, or invest in property. The foundation you lay now will last."
+  },
+  "17": {
+    "number": 17,
+    "title": "The Golden Carp Crosses the Fall",
+    "type": "Good Fortune",
+    "verse": "The golden carp swims hard against the stream,\nTo leap the dragon gate and catch the dream.\nWith one great bound, the transformation nears,\nAnd washes away all your former fears.",
+    "interpretation": "A time of significant breakthrough. Your strenuous efforts are about to elevate your status or bring you to a much higher level of success."
+  },
+  "18": {
+    "number": 18,
+    "title": "The Waning Moon",
+    "type": "Average",
+    "verse": "The silver moon grows thinner in the night,\nAnd casts upon the earth a weaker light.\nDo not begin a journey in the dark,\nBut wait until the dawn ignites a spark.",
+    "interpretation": "Energy and momentum are currently low. It is not the right time to start new projects. Rest and conserve your strength until conditions improve."
+  },
+  "19": {
+    "number": 19,
+    "title": "The Hidden Tiger",
+    "type": "Bad Fortune",
+    "verse": "The forest path is quiet, dark, and deep,\nBut in the shadows, danger does not sleep.\nA hungry tiger waits behind the stone,\nIt is unwise to walk this road alone.",
+    "interpretation": "Be extremely vigilant. There are unseen threats or deceitful people around you. Avoid dangerous investments and do not trust easily."
+  },
+  "20": {
+    "number": 20,
+    "title": "The Jade Courtyard",
+    "type": "Great Blessing",
+    "verse": "The courtyard shines with emeralds and jade,\nA solid fortune that will never fade.\nYour family gathers in a joyous ring,\nAnd every season feels like early spring.",
+    "interpretation": "An incredibly prosperous omen. Wealth, domestic harmony, and lasting joy are assured. All aspects of life are blessed with abundance."
+  },
+  "21": {
+    "number": 21,
+    "title": "The Broken Bridge",
+    "type": "Great Misfortune",
+    "verse": "The raging river sweeps the bridge away,\nYou cannot cross, no matter what you pay.\nThe road ahead is shattered and destroyed,\nA dangerous path that you must now avoid.",
+    "interpretation": "A complete blockage of your plans. Pushing forward will lead to disaster. You must turn back, abandon current risky ventures, and seek an entirely different route."
+  },
+  "22": {
+    "number": 22,
+    "title": "The Floating Cloud",
+    "type": "Average",
+    "verse": "A lonely cloud drifts aimless in the sky,\nWith no clear home to rest its weary eye.\nThe winds of chance dictate where it will go,\nA fleeting journey that is drifting slow.",
+    "interpretation": "A period of instability and lack of direction. You may feel like you are just drifting. Focus on finding your anchor rather than making permanent decisions right now."
+  },
+  "23": {
+    "number": 23,
+    "title": "The Blooming Lotus",
+    "type": "Good Fortune",
+    "verse": "From muddy waters rises something pure,\nA fragrant lotus, steadfast and secure.\nThough surrounded by the dirt and daily grind,\nTrue clarity and beauty you will find.",
+    "interpretation": "A positive sign of overcoming a messy or difficult situation. You will rise above the negativity and achieve a respectable and peaceful outcome."
+  },
+  "24": {
+    "number": 24,
+    "title": "The Empty Net",
+    "type": "Bad Fortune",
+    "verse": "You cast your net into the empty sea,\nBut catch no fish, however hard it be.\nThe tides are wrong, the silver fish have fled,\nYou return home with heavy heart and dread.",
+    "interpretation": "A warning of wasted effort and poor timing. Your current endeavors are unlikely to yield any results. Stop wasting your resources and wait for a better opportunity."
+  },
   "25": {
     "number": 25,
     "title": "Blooming Spring",
     "type": "Good Fortune",
     "verse": "Winter's chill begins to fade away,\nSpring blossoms open to the light of day.\nPatience brings the reward you seek,\nA gentle breeze upon the mountain peak.",
     "interpretation": "Good things are coming, but they require patience. Like a flower blooming in spring, your efforts will naturally bear fruit in due time."
+  },
+  "26": {
+    "number": 26,
+    "title": "The Guiding Lantern",
+    "type": "Good Fortune",
+    "verse": "The night is dark, the mountain pass is steep,\nBut someone leaves a lantern for you to keep.\nIts gentle flame will show you where to tread,\nAnd safely guide you to the path ahead.",
+    "interpretation": "Help will arrive when you need it most. A mentor, friend, or unexpected benefactor will offer guidance that leads you out of confusion and into success."
+  },
+  "27": {
+    "number": 27,
+    "title": "The Crane in the Pines",
+    "type": "Great Blessing",
+    "verse": "The ancient crane rests in the mountain pine,\nA symbol of a long and favored line.\nGood health, deep peace, and honor will increase,\nA golden age where every trouble ceases.",
+    "interpretation": "A highly auspicious fortune representing longevity, stability, and high honors. You will enjoy a long period of peace and respect from those around you."
+  },
+  "28": {
+    "number": 28,
+    "title": "The Hidden Pearl",
+    "type": "Good Fortune",
+    "verse": "The oyster hides a pearl of purest white,\nDeep in the ocean, far away from light.\nDive bravely down beneath the rolling sea,\nA precious treasure waits for you and me.",
+    "interpretation": "A hidden talent, asset, or opportunity is about to be discovered. Do not be afraid to look beneath the surface or do the deep work required to claim your reward."
+  },
+  "29": {
+    "number": 29,
+    "title": "The Parched Earth",
+    "type": "Average",
+    "verse": "The dusty fields are waiting for the rain,\nThe farmer gazes at the barren plain.\nThe skies are heavy but the drops are few,\nJust wait until the heavens start anew.",
+    "interpretation": "A period of waiting and endurance. You have prepared the ground, but you cannot force the results to appear faster. Be patient; the nourishment you need will come in time."
+  },
+  "30": {
+    "number": 30,
+    "title": "The Sinking Vessel",
+    "type": "Great Misfortune",
+    "verse": "The mighty vessel strikes a hidden reef,\nThe roaring ocean offers no relief.\nThe cargo spills into the darkened wave,\nThere is but little left for you to save.",
+    "interpretation": "A severe warning of catastrophic failure or major loss. Abandon current risky ventures immediately. Focus entirely on damage control and preserving your personal safety rather than material wealth."
+  },
+  "31": {
+    "number": 31,
+    "title": "The Morning Sun",
+    "type": "Great Blessing",
+    "verse": "The golden sun ascends the eastern sky,\nThe shadows vanish as the light draws nigh.\nThe darkest winter night is left behind,\nA brilliant, warming future you will find.",
+    "interpretation": "A supreme fortune of new beginnings and ultimate clarity. All confusion and sorrow will dissipate, making way for boundless success, joy, and vitality."
+  },
+  "32": {
+    "number": 32,
+    "title": "Walking on Thin Ice",
+    "type": "Bad Fortune",
+    "verse": "The frozen lake is cracking at your feet,\nA single step could mean a cold defeat.\nThe winter wind is howling through the pine,\nA dangerous path across a fragile line.",
+    "interpretation": "Extreme caution is needed. You are in a precarious situation where one wrong move could lead to disaster. Tread lightly, avoid taking sides, and back away from unnecessary risks."
+  },
+  "33": {
+    "number": 33,
+    "title": "The Caged Bird",
+    "type": "Average",
+    "verse": "The songbird sits within a golden cage,\nAnd sings a song of sorrow to the sage.\nThough food and water are provided here,\nThe open sky is what the heart holds dear.",
+    "interpretation": "You may feel restricted or trapped by your current circumstances, even if they are comfortable. This is a time of safety, but not of freedom. Endure it until the door is opened."
+  },
+  "34": {
+    "number": 34,
+    "title": "The Welcoming Inn",
+    "type": "Good Fortune",
+    "verse": "A weary traveler finds a resting place,\nWith warm provisions and a friendly face.\nThe heavy burden falls upon the floor,\nA peaceful slumber safely past the door.",
+    "interpretation": "A highly favorable sign for travel, finding a safe haven, or receiving hospitality. You will find comfort, supportive allies, and a welcoming environment in your upcoming endeavors."
+  },
+  "35": {
+    "number": 35,
+    "title": "The Broken Jade",
+    "type": "Bad Fortune",
+    "verse": "A precious carving falls upon the ground,\nIts perfect beauty shattered all around.\nWhat took a lifetime's labor to create,\nIs lost forever to a careless fate.",
+    "interpretation": "A warning against carelessness or neglecting what is valuable to you. Relationships or delicate projects may suffer a severe fracture if you do not handle them with extreme care."
+  },
+  "36": {
+    "number": 36,
+    "title": "The Swift Steed",
+    "type": "Good Fortune",
+    "verse": "A thousand miles upon a steed of swift,\nA journey blessed by fortune's greatest gift.\nThe mountains fly past in a sudden blur,\nA winning race for him who uses spur.",
+    "interpretation": "Rapid progress and successful travel are indicated. Things will move much faster than you expected, and you have the energy and momentum to cross the finish line victoriously."
+  },
+  "37": {
+    "number": 37,
+    "title": "The Dragon's Rain",
+    "type": "Great Blessing",
+    "verse": "The azure dragon summons heavy showers,\nReviving all the wilting fields and flowers.\nA mighty force comes from the heavens high,\nTo end the drought and make the rivers fly.",
+    "interpretation": "A magnificent blessing where long-held prayers are finally answered. A powerful benefactor or a massive stroke of luck will completely transform your situation for the better."
+  },
+  "38": {
+    "number": 38,
+    "title": "The Blooming Orchid",
+    "type": "Good Fortune",
+    "verse": "Deep in the valley where the shadows play,\nAn orchid blooms to greet the breaking day.\nIts quiet fragrance fills the morning air,\nA gentle beauty blooming without care.",
+    "interpretation": "A positive sign of hidden virtues being recognized. You do not need to shout to be heard; your natural talents and good character will naturally attract the right opportunities to you."
+  },
+  "39": {
+    "number": 39,
+    "title": "The Arrow Misses the Mark",
+    "type": "Bad Fortune",
+    "verse": "The archer pulls the string with all his might,\nBut suddenly the wind disrupts the flight.\nThe arrow falls upon the barren ground,\nThe target missed, and nothing to be found.",
+    "interpretation": "A warning of failed plans or misdirected efforts. Despite your hard work, unpredictable external factors may cause you to miss your goal. Take time to realign before trying again."
+  },
+  "40": {
+    "number": 40,
+    "title": "The Sun and Moon Together",
+    "type": "Great Blessing",
+    "verse": "The sun and moon are shining in the sky,\nA perfect balance catches every eye.\nThe Yin and Yang are dancing in the light,\nA harmony that makes the whole world bright.",
+    "interpretation": "An incredibly auspicious fortune indicating perfect balance, harmony, and ultimate success. Partnerships, marriages, and joint ventures are highly favored and will bring immense joy."
+  },
+  "41": {
+    "number": 41,
+    "title": "The Wandering Monk",
+    "type": "Average",
+    "verse": "A wandering monk walks down the dusty road,\nWith nothing but a bowl to bear his load.\nHe seeks enlightenment from place to place,\nA quiet journey moving at its pace.",
+    "interpretation": "A period of spiritual growth, self-discovery, or seeking. Material gains may be slow, but you should focus on learning and inner peace. Trust the journey, even if the destination is unclear."
+  },
+  "42": {
+    "number": 42,
+    "title": "The Withered Tree Blossoms",
+    "type": "Good Fortune",
+    "verse": "The winter leaves a withered, barren tree,\nBut spring returns to set the blossoms free.\nNew life erupts upon the ancient wood,\nA sudden transformation, grand and good.",
+    "interpretation": "A highly favorable sign of renewal and second chances. A project or relationship you thought was lost or dead will suddenly revive, bringing unexpected joy and success."
+  },
+  "43": {
+    "number": 43,
+    "title": "The Tiger Leaves the Mountain",
+    "type": "Average",
+    "verse": "The mighty tiger leaves his mountain lair,\nTo walk among the valleys down there.\nHis power wanes outside his native land,\nHe must be careful where he takes his stand.",
+    "interpretation": "You may be stepping out of your comfort zone or area of expertise. While you have strength, you are currently in unfamiliar territory. Proceed with caution and do not be overconfident."
+  },
+  "44": {
+    "number": 44,
+    "title": "The Raging Storm",
+    "type": "Great Misfortune",
+    "verse": "The sky turns black, the furious winds arise,\nA heavy darkness covers up the eyes.\nThe storm destroys whatever blocks its path,\nYou cannot stand against nature's wrath.",
+    "interpretation": "A severe warning of impending crisis, massive upheaval, or overwhelming obstacles. Do not fight the current situation; find shelter, protect yourself, and wait for the danger to pass."
+  },
+  "45": {
+    "number": 45,
+    "title": "The Treasure in the Sand",
+    "type": "Good Fortune",
+    "verse": "A golden coin is hidden in the sand,\nJust waiting for a lucky, seeking hand.\nThe tide recedes and leaves the prize behind,\nA happy fortune for the one who finds.",
+    "interpretation": "A positive omen of unexpected gains or discovering something valuable that was previously overlooked. Keep your eyes open for hidden opportunities around you."
+  },
+  "46": {
+    "number": 46,
+    "title": "The Blind Man Leads",
+    "type": "Bad Fortune",
+    "verse": "A blind man tries to lead the way ahead,\nBut stumbles blindly where he shouldn't tread.\nThe path is lost, the followers confused,\nA foolish journey leaving all bruised.",
+    "interpretation": "A warning against following bad advice or poorly conceived plans. You or someone leading you lacks the necessary vision or knowledge. Stop and reassess before continuing."
+  },
+  "47": {
+    "number": 47,
+    "title": "The Golden Harvest",
+    "type": "Great Blessing",
+    "verse": "The autumn fields are heavy with the grain,\nThe perfect balance of the sun and rain.\nThe barns are full, the farmers sing with glee,\nA life of wealth and sweet prosperity.",
+    "interpretation": "An exceptionally prosperous fortune. Your hard work has culminated in a magnificent reward. Enjoy the fruits of your labor, as wealth, health, and happiness are abundant."
+  },
+  "48": {
+    "number": 48,
+    "title": "The Sturdy Foundation",
+    "type": "Good Fortune",
+    "verse": "The masons lay the stones with heavy hands,\nTo build a tower looking o'er the lands.\nThough slow the progress, solid is the wall,\nA lasting fortress that will never fall.",
+    "interpretation": "Slow and steady progress leads to lasting success. Focus on building a strong foundation in your current endeavors rather than rushing for quick results."
+  },
+  "49": {
+    "number": 49,
+    "title": "The Foggy Mountain Pass",
+    "type": "Bad Fortune",
+    "verse": "Thick fog descends upon the mountain high,\nConcealing every star within the sky.\nThe traveler loses sight of where to go,\nAnd wanders blindly in the mist below.",
+    "interpretation": "A period of confusion and lack of clarity. Do not make major decisions now, as you cannot see the full picture. Wait for the fog to lift before proceeding."
   },
   "50": {
     "number": 50,
@@ -20,12 +349,348 @@
     "verse": "The water's surface is a mirror clear,\nNo wind to stir, no storm to fear.\nMaintain the course and keep your peace,\nLet restless thoughts and worries cease.",
     "interpretation": "A neutral fortune. It is a time for stability rather than bold moves. Maintain your current path and avoid unnecessary risks."
   },
+  "51": {
+    "number": 51,
+    "title": "The Dragon and Phoenix Dance",
+    "type": "Great Blessing",
+    "verse": "The dragon spirals up to meet the sun,\nThe phoenix joins the dance, two hearts as one.\nA joyous union blessed by heaven's grace,\nBrings peace and fortune to this happy place.",
+    "interpretation": "An exceptionally auspicious omen for relationships, marriages, and business partnerships. Perfect harmony brings immense joy, success, and mutual benefit."
+  },
+  "52": {
+    "number": 52,
+    "title": "The Glistening Dewdrop",
+    "type": "Average",
+    "verse": "The morning dew shines brightly on the leaf,\nA tiny jewel, beautiful but brief.\nThe sun soon rises, melting it away,\nA fleeting fortune lasting but a day.",
+    "interpretation": "You may experience small, temporary gains or fleeting moments of joy. Appreciate them, but do not rely on them for long-term stability. Maintain a realistic outlook."
+  },
+  "53": {
+    "number": 53,
+    "title": "The Snake in the Grass",
+    "type": "Great Misfortune",
+    "verse": "The meadow looks so green and soft to tread,\nBut poison lurks within the flower bed.\nA hidden serpent waits to strike the heel,\nA sudden danger that the leaves conceal.",
+    "interpretation": "A severe warning of hidden enemies, betrayal, or unforeseen disasters disguised as opportunities. Be extremely cautious of offers that seem too good to be true."
+  },
+  "54": {
+    "number": 54,
+    "title": "The Heavenly Peach",
+    "type": "Good Fortune",
+    "verse": "The mystic orchard bears a shining fruit,\nA heavenly peach grown from a magic root.\nTo taste its nectar brings a lengthened life,\nAnd banishes all sickness, pain, and strife.",
+    "interpretation": "A highly positive sign of good health, longevity, and sudden blessings. You will receive unexpected help or a fortunate turn of events that greatly improves your well-being."
+  },
+  "55": {
+    "number": 55,
+    "title": "The River Grinds the Stone",
+    "type": "Good Fortune",
+    "verse": "The rushing river wears the stone away,\nThrough constant motion, night succeeding day.\nWhat seems impossible to human might,\nIs gently conquered by the water's flight.",
+    "interpretation": "Persistence overcomes all obstacles. Your continuous, gentle efforts will eventually break through the toughest barriers. Keep going and do not lose faith."
+  },
+  "56": {
+    "number": 56,
+    "title": "The Spider's Web",
+    "type": "Bad Fortune",
+    "verse": "The careless fly is caught within the thread,\nA sticky prison woven overhead.\nThe more it struggles, tighter grows the snare,\nA helpless victim trapped within the air.",
+    "interpretation": "You are entangled in a complicated or restrictive situation. Struggling wildly will only make things worse. You need outside help or a very careful strategy to free yourself."
+  },
+  "57": {
+    "number": 57,
+    "title": "The Swallow Returns",
+    "type": "Average",
+    "verse": "The winter ends, the swallow finds its way,\nBack to the eaves where it once used to play.\nThe old familiar sights are seen once more,\nA gentle greeting at the open door.",
+    "interpretation": "A time of return, nostalgia, or reconnecting with the past. Things are stabilizing. It is a good time to revisit old projects or mend past relationships, though sweeping new successes are unlikely right now."
+  },
+  "58": {
+    "number": 58,
+    "title": "The Beating Drum",
+    "type": "Great Blessing",
+    "verse": "The heavy drum is struck with mighty sound,\nIts thunder echoes all the world around.\nYour name is spoken far across the sea,\nA glorious triumph for all eyes to see.",
+    "interpretation": "A spectacular fortune of fame, recognition, and public success. Your achievements will be celebrated widely, and your reputation will soar to new heights."
+  },
+  "59": {
+    "number": 59,
+    "title": "Mending the Roof",
+    "type": "Average",
+    "verse": "The sky is clear, but autumn winds blow chill,\nGo mend the leaking roof upon the hill.\nPrepare today before the winter rain,\nTo save yourself from future damp and pain.",
+    "interpretation": "A practical reminder to prepare for future difficulties while times are calm. Take care of neglected duties, finances, or health matters now to avoid problems later."
+  },
+  "60": {
+    "number": 60,
+    "title": "The Full Harvest Moon",
+    "type": "Good Fortune",
+    "verse": "The silver moon is perfectly completely round,\nShedding a peaceful light upon the ground.\nThe family gathers at the open gate,\nEnjoying all the blessings of their fate.",
+    "interpretation": "A wonderful omen of completeness, family unity, and satisfaction. Whatever you are working towards is coming to a successful and fulfilling conclusion."
+  },
+  "61": {
+    "number": 61,
+    "title": "The Broken Sword",
+    "type": "Bad Fortune",
+    "verse": "The warrior draws his weapon for the fight,\nBut rust has eaten through the metal bright.\nThe blade snaps cleanly at the sudden blow,\nLeaving him helpless to the coming foe.",
+    "interpretation": "A warning of lost strength or failed defenses. You are ill-prepared for the challenges ahead, or a tool/partnership you rely on will suddenly fail you. Retreat and regroup."
+  },
+  "62": {
+    "number": 62,
+    "title": "The Resting Traveler",
+    "type": "Average",
+    "verse": "The dusty traveler finds a shady tree,\nAnd sits beneath the branches, breathing free.\nThe journey's end is still a mile away,\nBut rest is needed for the weary day.",
+    "interpretation": "You are halfway to your goal, but you need a break. This is a neutral time meant for recovery rather than pushing forward. Take a breath before continuing your journey."
+  },
+  "63": {
+    "number": 63,
+    "title": "The Golden Pavilion",
+    "type": "Great Blessing",
+    "verse": "A golden temple shines upon the hill,\nWhere heavenly music keeps the spirits still.\nGreat honor and immense prosperity,\nAre granted to your entire family.",
+    "interpretation": "A spectacular fortune promising immense wealth, high social standing, and divine protection. Your current path is blessed, leading to extraordinary success."
+  },
+  "64": {
+    "number": 64,
+    "title": "The Poisoned Well",
+    "type": "Great Misfortune",
+    "verse": "The village thirsts beneath the summer sun,\nBut to the local well they must not run.\nThe water there is tainted, dark, and sour,\nBringing severe destruction in an hour.",
+    "interpretation": "An urgent warning of toxicity in your environment, business, or relationships. Do not partake in current offers, as they are corrupted and will cause immense harm."
+  },
+  "65": {
+    "number": 65,
+    "title": "The Gentle Spring Rain",
+    "type": "Good Fortune",
+    "verse": "A gentle shower falls upon the field,\nEnsuring that the coming crops will yield.\nThe dry and cracking earth drinks up the grace,\nA quiet blessing falling into place.",
+    "interpretation": "A very positive sign of timely help and steady growth. Small but continuous blessings will nourish your projects, ensuring they eventually produce a wonderful harvest."
+  },
+  "66": {
+    "number": 66,
+    "title": "The Autumn Leaf",
+    "type": "Average",
+    "verse": "A single crimson leaf falls from the tree,\nAnd dances on the wind for all to see.\nIt lands upon the river, drifting slow,\nAccepting exactly where the currents go.",
+    "interpretation": "A time of transition and letting go. You must accept that a cycle is ending. Do not fight the natural flow of events; ride the current with grace."
+  },
+  "67": {
+    "number": 67,
+    "title": "The Howling Wolf",
+    "type": "Bad Fortune",
+    "verse": "The lonely wolf howls at the midnight sky,\nA chilling sound that makes the courage die.\nThe flock is scattered, shivering in fright,\nAs shadows close around the dying light.",
+    "interpretation": "A warning of impending fear, isolation, or loss. Rivals or bad luck are circling your endeavors. Be highly protective of your assets and avoid risky environments."
+  },
+  "68": {
+    "number": 68,
+    "title": "The Thriving Garden",
+    "type": "Good Fortune",
+    "verse": "The garden blooms with every kind of flower,\nCared for by the sun and frequent shower.\nThe bees are buzzing, collecting all the sweet,\nA place where beauty and abundance meet.",
+    "interpretation": "A favorable omen of thriving businesses, growing families, or expanding wealth. Your careful tending to your duties is producing a beautiful and rewarding result."
+  },
+  "69": {
+    "number": 69,
+    "title": "The Emperor's Carriage",
+    "type": "Great Blessing",
+    "verse": "The royal carriage rolls into the town,\nThe Emperor himself is stepping down.\nHe points to you and calls you by your name,\nBestowing sudden wealth and lasting fame.",
+    "interpretation": "An incredibly rare and powerful fortune. You will receive massive support from the highest authorities or incredibly influential figures. Unprecedented success is yours."
+  },
+  "70": {
+    "number": 70,
+    "title": "The Weaver's Silk",
+    "type": "Good Fortune",
+    "verse": "The weaver works the loom from morn till night,\nTransforming simple threads to pure delight.\nA masterpiece of silk is slowly made,\nA brilliant tapestry that will not fade.",
+    "interpretation": "A favorable sign for creative projects and long-term efforts. Your dedication to your craft or daily work will result in something beautiful and highly valued by others."
+  },
+  "71": {
+    "number": 71,
+    "title": "The Leaking Pitcher",
+    "type": "Bad Fortune",
+    "verse": "You draw the water from the deepest well,\nBut drops are falling where the shadows dwell.\nA hidden crack drains all your work away,\nLeaving you thirsty at the close of day.",
+    "interpretation": "A warning of wasted resources or hidden losses. You are putting effort or money into a situation that cannot sustain it. Find and fix the leak before proceeding."
+  },
+  "72": {
+    "number": 72,
+    "title": "The River Meets the Sea",
+    "type": "Great Blessing",
+    "verse": "The winding river leaves the mountain steep,\nTo join the ocean, boundless, vast, and deep.\nAll boundaries vanish in the roaring tide,\nA glorious destiny spreading far and wide.",
+    "interpretation": "A magnificent fortune representing ultimate fulfillment and the expansion of your horizons. You are stepping into a phase of boundless potential and immense success."
+  },
+  "73": {
+    "number": 73,
+    "title": "The Sleeping Hound",
+    "type": "Average",
+    "verse": "The faithful hound sleeps by the quiet door,\nThere are no strangers walking on the floor.\nThe house is safe, but nothing stirs the air,\nA peaceful, uneventful time to share.",
+    "interpretation": "A completely neutral time. There are no immediate threats, but also no exciting opportunities. Enjoy the peace and quiet; do not try to stir up unnecessary action."
+  },
+  "74": {
+    "number": 74,
+    "title": "The Singing Cricket",
+    "type": "Good Fortune",
+    "verse": "The autumn winds begin to blow quite cold,\nBut by the hearth, a joyful song is told.\nThe little cricket chirps a merry tune,\nA cozy comfort underneath the moon.",
+    "interpretation": "A positive sign of finding joy in small things and domestic comfort. Even if the outside world seems harsh, your home and close relationships will provide warmth and happiness."
+  },
   "75": {
     "number": 75,
     "title": "Clouds Obscure the Moon",
     "type": "Bad Fortune",
     "verse": "Thick clouds gather in the evening sky,\nHiding the bright moon from the watchful eye.\nSteps must be taken with utmost care,\nLest you stumble in the darkened air.",
     "interpretation": "A warning to be cautious. You may face obstacles or confusion in the near future. Delay major decisions and proceed carefully."
+  },
+  "76": {
+    "number": 76,
+    "title": "The Blocked Pass",
+    "type": "Great Misfortune",
+    "verse": "The mountain rumbles and the rocks descend,\nBringing your journey to a sudden end.\nThe only road is buried deep in stone,\nYou stand defeated, stranded, and alone.",
+    "interpretation": "A severe warning of an insurmountable obstacle. Your path is completely blocked, and trying to climb over the wreckage will lead to ruin. You must abandon this route entirely."
+  },
+  "77": {
+    "number": 77,
+    "title": "The Ancient Bell",
+    "type": "Average",
+    "verse": "The temple bell tolls slowly in the night,\nA heavy sound that puts the birds to flight.\nIt calls to mind the days of long ago,\nA steady rhythm, solemn, deep, and slow.",
+    "interpretation": "A time for reflection rather than action. Look to the past to learn lessons for the future. Patience and reverence for tradition are required right now."
+  },
+  "78": {
+    "number": 78,
+    "title": "The Playful Macaque",
+    "type": "Bad Fortune",
+    "verse": "The monkey steals the peach right from your hand,\nAnd scatters all your papers in the sand.\nA foolish nuisance causing great delay,\nDistracting you from walking on your way.",
+    "interpretation": "You are being plagued by minor annoyances, distractions, or deceitful people. These small interferences can ruin your plans if you do not strictly discipline yourself and your surroundings."
+  },
+  "79": {
+    "number": 79,
+    "title": "The Golden Key",
+    "type": "Good Fortune",
+    "verse": "A heavy chest is locked and bound in steel,\nConcealing what the shadows would conceal.\nBut in your hand you hold the golden key,\nTo open up the lock and set it free.",
+    "interpretation": "A very positive sign of finding solutions. You finally possess the knowledge, connection, or tool needed to solve a long-standing problem or unlock a new opportunity."
+  },
+  "80": {
+    "number": 80,
+    "title": "The Dragon's Pearl",
+    "type": "Great Blessing",
+    "verse": "The mighty dragon guards a glowing sphere,\nA pearl of wisdom, absolutely clear.\nHe drops the treasure gently at your feet,\nA gift of heaven, perfectly complete.",
+    "interpretation": "An incredibly auspicious reading denoting the attainment of ultimate wisdom, wealth, or a lifelong dream. You are receiving a rare and powerful blessing."
+  },
+  "81": {
+    "number": 81,
+    "title": "The Untethered Skiff",
+    "type": "Average",
+    "verse": "The little boat slips softly from its knot,\nAnd leaves behind the quiet resting spot.\nIt glides upon the lake without an oar,\nJust drifting slowly to another shore.",
+    "interpretation": "You are currently not in control of your direction, but the waters are calm. Let things unfold naturally for now. Do not fight the current; see where it takes you."
+  },
+  "82": {
+    "number": 82,
+    "title": "The Frost on the Grass",
+    "type": "Bad Fortune",
+    "verse": "The sudden frost descends upon the lawn,\nThe summer's green is instantly withdrawn.\nThe tender shoots are withered in the cold,\nA bitter end to what was young and bold.",
+    "interpretation": "A warning of a sudden end to a promising endeavor or relationship. External circumstances will chill your progress. Protect your assets and prepare for a harsh period."
+  },
+  "83": {
+    "number": 83,
+    "title": "Counsel of the Sage",
+    "type": "Good Fortune",
+    "verse": "An elder speaks with wisdom in his eyes,\nHis words are gentle, practical, and wise.\nYou listen closely to the ancient lore,\nAnd find the answers you were searching for.",
+    "interpretation": "A positive sign that you will receive excellent advice. Seek out a mentor or an experienced professional; their guidance will lead you directly to success."
+  },
+  "84": {
+    "number": 84,
+    "title": "The Falling Star",
+    "type": "Great Misfortune",
+    "verse": "A brilliant star streaks downward from the height,\nAnd vanishes completely from the night.\nWhat once was high is buried in the dust,\nA sudden failure of a sacred trust.",
+    "interpretation": "A dire warning of a sudden fall from grace, loss of status, or the collapse of a major aspiration. Pride or misplaced trust will lead to a rapid and devastating decline."
+  },
+  "85": {
+    "number": 85,
+    "title": "The Bamboo Flute",
+    "type": "Average",
+    "verse": "The shepherd plays a quiet, lonely tune,\nBeneath the pale and unassuming moon.\nThe melody is sweet but fades away,\nA peaceful passing of an empty day.",
+    "interpretation": "A time of quiet reflection and simple routines. Do not expect grand events or major progress. Enjoy the stillness and maintain your current position."
+  },
+  "86": {
+    "number": 86,
+    "title": "The Scent of Pine",
+    "type": "Good Fortune",
+    "verse": "The winter wind blows through the ancient pine,\nA fragrant scent that feels almost divine.\nThe tree stands evergreen amidst the snow,\nA sturdy strength that continues to grow.",
+    "interpretation": "A highly favorable sign of resilience and lasting health. Your steadfast nature will see you through any minor hardships, leading to long-term success."
+  },
+  "87": {
+    "number": 87,
+    "title": "The Imperial Seal",
+    "type": "Great Blessing",
+    "verse": "The heavy stamp is pressed upon the page,\nMarking the start of a glorious age.\nAuthority and power are bestowed,\nA brilliant light upon a golden road.",
+    "interpretation": "An incredibly auspicious fortune indicating official recognition, promotion, or legal victory. You are granted the power and authority to achieve your grandest ambitions."
+  },
+  "88": {
+    "number": 88,
+    "title": "The Tangled Kite",
+    "type": "Bad Fortune",
+    "verse": "The paper kite flies high into the breeze,\nBut catches tightly in the highest trees.\nThe string is pulled until it snaps in two,\nA sudden loss of what belonged to you.",
+    "interpretation": "A warning of overreaching or losing control. Your ambitions have gotten tangled up in complications. Forcing the issue will only result in a permanent break."
+  },
+  "89": {
+    "number": 89,
+    "title": "The Distant Bell",
+    "type": "Average",
+    "verse": "A muffled ringing echoes from afar,\nBeneath the twinkling of a single star.\nYou cannot clearly hear the message sent,\nA quiet mystery of vague intent.",
+    "interpretation": "Information or results are delayed. You only have part of the picture right now. Be patient and wait for clearer signals before making your next move."
+  },
+  "90": {
+    "number": 90,
+    "title": "The Collapsing Wall",
+    "type": "Great Misfortune",
+    "verse": "The ancient stones can bear the weight no more,\nAnd crash in ruin on the dusty floor.\nThe house is open to the bitter wind,\nA devastating loss where you have sinned.",
+    "interpretation": "A severe warning of foundational collapse. A project, business, or relationship is falling apart due to past neglect or poor planning. Seek shelter immediately."
+  },
+  "91": {
+    "number": 91,
+    "title": "The River's Source",
+    "type": "Good Fortune",
+    "verse": "You walk upstream to find the hidden spring,\nWhere pure and crystal waters start to sing.\nThe journey upward brings a sweet reward,\nA wealth of clarity safely restored.",
+    "interpretation": "A positive sign of getting to the root of a matter. By tracing a problem to its origin, you will find a brilliant and refreshing solution that brings great success."
+  },
+  "92": {
+    "number": 92,
+    "title": "The Golden Crown",
+    "type": "Great Blessing",
+    "verse": "A crown of gold is placed upon your head,\nAnd all your former worries now are dead.\nThe kingdom cheers to see you on the throne,\nA massive fortune that is yours alone.",
+    "interpretation": "A magnificent blessing representing the pinnacle of success, leadership, and wealth. You will reach the absolute top of your field or achieve a supreme personal victory."
+  },
+  "93": {
+    "number": 93,
+    "title": "The Rusting Lock",
+    "type": "Bad Fortune",
+    "verse": "The iron lock is rusted by the rain,\nYou turn the heavy key but all in vain.\nThe door remains shut tight against your hand,\nA stubborn barrier you cannot command.",
+    "interpretation": "A warning of stubborn obstacles and denied access. You are locked out of an opportunity, and your current methods will not work. Do not force it; the timing is entirely wrong."
+  },
+  "94": {
+    "number": 94,
+    "title": "The Sleeping Owl",
+    "type": "Average",
+    "verse": "The owl sleeps soundly through the glaring light,\nAnd waits in silence for the coming night.\nIts wisdom lies in knowing when to wake,\nA careful pause for its own safety's sake.",
+    "interpretation": "Now is not the time to act. Like the owl in daylight, you are out of your element. Conserve your energy and wait for a more favorable environment to apply your skills."
+  },
+  "95": {
+    "number": 95,
+    "title": "The Painted Fan",
+    "type": "Good Fortune",
+    "verse": "The artist paints a landscape on the fan,\nA masterpiece of a most careful plan.\nA gentle breeze is summoned by your hand,\nTo cool the heat upon the summer land.",
+    "interpretation": "A highly favorable sign of elegance, diplomacy, and turning a situation to your advantage. Your tact and careful planning will bring relief and beautiful results."
+  },
+  "96": {
+    "number": 96,
+    "title": "The Dragon Boat",
+    "type": "Great Blessing",
+    "verse": "The painted boat races across the lake,\nWith drums resounding for the winner's sake.\nThe oars move perfectly in joyous time,\nA sudden victory, grand and sublime.",
+    "interpretation": "An exceptionally auspicious omen for teamwork and competition. With the support of others, you will rapidly outpace your rivals and achieve a glorious, celebrated victory."
+  },
+  "97": {
+    "number": 97,
+    "title": "The Lost Compass",
+    "type": "Bad Fortune",
+    "verse": "The needle spins and points in every way,\nThe sailor doesn't know which course to lay.\nThe stormy sea surrounds the wooden hull,\nA dangerous journey that is never dull.",
+    "interpretation": "A severe warning of lost direction and dangerous confusion. You are navigating without clear guidance. Stop moving forward immediately until you regain your bearings."
+  },
+  "98": {
+    "number": 98,
+    "title": "The Snail's Pace",
+    "type": "Average",
+    "verse": "The tiny snail moves slowly up the wall,\nIt takes a day to climb and not to fall.\nThe progress made is barely seen by eye,\nBut still it creeps beneath the open sky.",
+    "interpretation": "Progress is agonizingly slow, but it is happening. Do not be frustrated by the lack of speed. Maintain your grip and keep moving forward, no matter how small the steps."
+  },
+  "99": {
+    "number": 99,
+    "title": "The Final Peak",
+    "type": "Good Fortune",
+    "verse": "The mountain peak is standing just ahead,\nThe arduous journey leaves behind all dread.\nThe view from here is breathtaking and clear,\nA perfect ending to a weary year.",
+    "interpretation": "A wonderful sign of successful completion. You are about to reach the summit of a long and difficult endeavor. The results will be well worth the effort you invested."
   },
   "100": {
     "number": 100,
